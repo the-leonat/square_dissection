@@ -1,4 +1,4 @@
 # square_dissection
-algorithm for dissection a square in given proportions
+algorithm for dissection of a square in given proportions
 
 ![image](image.png?raw=true "Title")
